@@ -106,9 +106,13 @@ Keyboard ✅
 
 TrackPad  & trackpad buttons ✅
 
+Function Key ✅
 
 ##  Not Working 
-Brightness key ( can be controlled by slidebar May need ACPI PATCH )
+~Brightness key ( can be controlled by slidebar May need ACPI PATCH )~
+
+Fixed Thanks For the Patch by
+- [@dushan12k](https://github.com/dushan12k)
 
 ## Bugs
 - AirDrop  (showing the iphone but tapping on share nothing happens )
