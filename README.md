@@ -74,6 +74,11 @@ https://youtu.be/jvb-BIMV1Mw?si=a8llG4d1W8aXJb0d&t=2046
 
 This is an OpenCore-based Hackintosh EFI. Generally, there's only one thing you need to fix after installing macOS, which you can do yourself. However, I would still recommend that you go through all the documentation guides or video guides to understand it a bit so that you also gain knowledge of Hackintosh. If you don't, then...
 
+**Tested On Ventura**
+
+  System Version:	macOS **Ventura** 13.6.1 (22G313)
+  Kernel Version:	Darwin 22.6.0
+
 Used **AirportItlwm** For Wifi fix And Working Fine
 
 Used **IntelBluetoothFirmware** For Fixing Bluetooth
