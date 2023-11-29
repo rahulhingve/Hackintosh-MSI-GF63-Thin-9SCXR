@@ -11,7 +11,10 @@ The EFI is nearly perfect for the MSI GF 63 Thin 9SCXR Tested On  Ventura , alth
 
 
 
-https://github.com/rahulhingve/Hackintosh-MSI-GF63-Thin-9SCXR/assets/62886652/af50ac1c-07a5-4fe6-9843-748b0d775330
+
+https://github.com/rahulhingve/Hackintosh-MSI-GF63-Thin-9SCXR/assets/62886652/42ea5e65-d824-4129-93fc-fe2bc5de6ee9
+
+
 
 
 
